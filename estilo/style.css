@@ -60,6 +60,7 @@ body{
 
 header{
     min-height: 150px;
+    max-width: 250px;
     text-align: center;
     color: white;
     background-image: linear-gradient(to top, var(--cor4), var(--cor3));
