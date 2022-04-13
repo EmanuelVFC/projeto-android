@@ -59,8 +59,8 @@ body{
 }
 
 header{
-    min-height: 150px;
-    max-width: 250px;
+    min-width: 320px;
+    max-width: 1000px;
     text-align: center;
     color: white;
     background-image: linear-gradient(to top, var(--cor4), var(--cor3));
@@ -70,8 +70,8 @@ nav{
     color: white;
     padding: 10px;
     box-shadow: 0px 10px 9px rgba(0, 0, 0, 0.192);
-    min-width: 850px;
-    max-width: 100px;
+    min-width: 320px;
+    max-width: 1000px;
 }
 
 nav > a{
