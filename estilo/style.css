@@ -149,7 +149,7 @@ header>h2{
     max-width: 600px; /*SE FOR O NAVEGADOR FOR MENOS DO QUE ISSO, O H2 IRÁ DIMINUIR/ QUEBRAR LINHA*/
     margin: auto;
     padding: 0px 10px;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 article>h1{
